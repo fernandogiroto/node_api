@@ -1,0 +1,29 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "express": "4.16.2",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "nodemon": "1.14.11"
+  },
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandogiroto/node_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandogiroto/node_api/issues"
+  },
+  "homepage": "https://github.com/fernandogiroto/node_api#readme"
+}
